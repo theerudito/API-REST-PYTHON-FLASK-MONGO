@@ -6,7 +6,7 @@ MONGO PYTHON FLASK APIREST
   pip install certifi 
   pip install python-dotenv
   pip install pymongo[srv]
-- STEP 3.- verify the packages with coommand pip list
+- STEP 3.- verify the packages with command pip list
 - STEP 4.- create a new folder in the project example src
 - STEP 5.- create a new file in the folder example src/app.py
 - STEP 6.- run the project example python app.py
