@@ -13,5 +13,5 @@ MONGO PYTHON FLASK APIREST
 - STEP 7.- create file requirements.txt
 - STEP 8.- install requirement.tx  example pip install requirements.txt
 
-
+if do you need to install dependence using the file requirement.tx
 
