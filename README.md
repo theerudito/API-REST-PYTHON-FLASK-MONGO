@@ -10,6 +10,7 @@ MONGO PYTHON FLASK APIREST
 - STEP 4.- create a new folder in the project example src
 - STEP 5.- create a new file in the folder example src/app.py
 - STEP 6.- run the project example python app.py
+- STEP 7.- create file requirements.txt
 
 
 
