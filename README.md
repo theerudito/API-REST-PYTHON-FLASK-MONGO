@@ -24,4 +24,5 @@ STEP 8- create file requirements.txt
 STEP 9- install requirement.tx  example pip install requirements.txt
 
 if do you need to install dependence using the file requirements.txt
+pip install -r requirements.txt
 
